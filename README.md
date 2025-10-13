@@ -5,7 +5,7 @@ This is a PettingZoo implementation of the Astrocraft environment which allows f
 This environment uses the same transfer mechanics as the Gymnasium environment, however there are the normal differences between Gymnasium and PettingZoo (explained in more detail below).
 
 # Environment Usage
-Here is a loose step-by-step on how to use the environment.
+Here is a loose step-by-step on how to use the environment. See the tutorial file for details.
 
 ## Initialize the Environment
 Initialize the environment normally, passing in the necessary arguments to the constructor. This environment is currently only capable of MvM games, however with a few small changes a MvN implementation should be simple enough to implement.
